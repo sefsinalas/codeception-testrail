@@ -28,7 +28,7 @@ env:
     dev:
         extensions:
             enabled:
-                -  Codeception\Extension\TestRailExtension:
+                -  \boxblinkracer\CodeceptionTestRail\Extension\TestRailExtension:
                         url:  https://company.testrail.io
                         user: "xxx"
                         password: "xxx"
