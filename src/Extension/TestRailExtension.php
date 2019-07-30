@@ -1,19 +1,19 @@
 <?php
 
-namespace Codeception\Extension;
+namespace boxblinkracer\CodeceptionTestRail\Extension;
 
 use Codeception\Event\FailEvent;
 use Codeception\Event\TestEvent;
 use \Codeception\Events;
 use Codeception\Exception\ConfigurationException;
 use Codeception\Extension;
-use Codeception\Services\TestRailAPIClient;
+use boxblinkracer\CodeceptionTestRail\Services\TestRailAPIClient;
 
 /**
  * Class TestRailExtension
  *
  * @copyright Christian Dangl 2019
- * @package Codeception\Extension
+ * @package boxblinkracer\CodeceptionTestRail\Extension
  */
 class TestRailExtension extends Extension
 {
