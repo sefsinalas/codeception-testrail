@@ -1,0 +1,21 @@
+{
+  "name": "boxblinkracer/codeception-testrail",
+  "license" : "proprietary",
+  "description": "Codeception extension for TestRail. Automatically send Test Results to TestRail",
+  "authors": [
+    {
+      "name": "Christian Dangl"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "ext-json" : "*",
+    "ext-curl" : "*",
+    "codeception/codeception": "^2.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Codeception\\": "src"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+# ignore all vendors
+/vendor
+/.idea
+.DS_Store
