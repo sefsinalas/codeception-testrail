@@ -1,5 +1,5 @@
 {
-  "name": "boxblinkracer/codeception-testrail",
+  "name": "sefsinalas/codeception-testrail",
   "license" : "proprietary",
   "description": "Codeception extension for TestRail. Automatically send Test Results to TestRail",
   "authors": [
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "boxblinkracer\\CodeceptionTestRail\\": "src"
+      "sefsinalas\\CodeceptionTestRail\\": "src"
     }
   }
 }

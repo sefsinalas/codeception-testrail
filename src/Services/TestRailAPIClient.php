@@ -1,12 +1,12 @@
 <?php
 
-namespace boxblinkracer\CodeceptionTestRail\Services;
+namespace sefsinalas\CodeceptionTestRail\Services;
 
 /**
  * Class TestRailAPIClient
  *
  * @copyright Christian Dangl 2019
- * @package boxblinkracer\CodeceptionTestRail\Services
+ * @package sefsinalas\CodeceptionTestRail\Services
  */
 class TestRailAPIClient
 {
